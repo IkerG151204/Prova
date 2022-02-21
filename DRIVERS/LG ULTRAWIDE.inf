@@ -1,0 +1,65 @@
+;===============================================================
+; [LG ULTRAWIDE.inf]
+; Revision 1.0   Oct-27-2020
+; Copyright(c)1998~2020 LG Electronics Inc.,All Rights Reserved.
+;===============================================================
+;
+[Version]
+signature="$CHICAGO$"
+Class=Monitor
+ClassGuid={4D36E96E-E325-11CE-BFC1-08002BE10318}
+Provider=%LG%
+CatalogFile=LG ULTRAWIDE.cat
+DriverVer=10/27/2020,1.0
+
+[ControlFlags]
+ExcludeFromSelect.NT=Monitor\GSM57770
+
+[DestinationDirs]
+DefaultDestDir = 11
+LG ULTRAWIDE_HDMI.CopyFiles = 23
+
+[SourceDisksNames]
+1=%DiskName%,,,
+
+[SourceDisksFiles]
+LG ULTRAWIDE.ICM=1
+
+[Manufacturer]
+%LG%=LG,NTamd64
+
+[LG]
+%LG ULTRAWIDE_HDMI%=LG ULTRAWIDE_HDMI.Install,Monitor\GSM7770
+
+[LG.NTamd64]
+%LG ULTRAWIDE_HDMI%=LG ULTRAWIDE_HDMI.Install,Monitor\GSM7770
+
+[LG ULTRAWIDE_HDMI.Install]
+DelReg=DEL_CURRENT_REG
+AddReg=LG ULTRAWIDE_HDMI.AddReg,2560,DPMS
+CopyFiles=LG ULTRAWIDE_HDMI.CopyFiles
+
+[DEL_CURRENT_REG]
+HKR,MODES
+HKR,,MaxResolution
+HKR,,DPMS
+HKR,,ICMProfile
+
+[2560]
+HKR,,MaxResolution,,"2560,1080"
+
+[DPMS]
+HKR,,DPMS,,1
+
+[LG ULTRAWIDE_HDMI.AddReg]
+HKR,"MODES\2560,1080",Mode1,,"30.0-90.0,56.0-75.0,+,-"
+HKR,,PreferredMode,,"2560,1080,60"
+HKR,,ICMprofile,0,"LG ULTRAWIDE.ICM"
+
+[LG ULTRAWIDE_HDMI.CopyFiles]
+LG ULTRAWIDE.ICM
+
+[Strings]
+DiskName="LG Monitor Profiles Installation Disk"
+LG="LG"
+LG ULTRAWIDE_HDMI="LG ULTRAWIDE"

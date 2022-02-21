@@ -1,0 +1,7 @@
+
+mount /mnt/ Carpeta1
+mount /dev/sda1 /mnt/carpeta
+
+Fuse -m
+
+find -name  *.txt

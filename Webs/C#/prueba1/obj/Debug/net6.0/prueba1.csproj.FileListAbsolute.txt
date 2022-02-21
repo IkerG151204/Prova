@@ -1,0 +1,15 @@
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\prueba1.exe
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\prueba1.deps.json
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\prueba1.runtimeconfig.json
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\prueba1.dll
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\ref\prueba1.dll
+C:\Users\ikerg\Desktop\C#\prueba1\bin\Debug\net6.0\prueba1.pdb
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.AssemblyInfoInputs.cache
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.AssemblyInfo.cs
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.dll
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\ref\prueba1.dll
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.pdb
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.genruntimeconfig.cache
+C:\Users\ikerg\Desktop\C#\prueba1\obj\Debug\net6.0\prueba1.csproj.AssemblyReference.cache

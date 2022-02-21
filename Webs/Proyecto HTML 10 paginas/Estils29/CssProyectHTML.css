@@ -1,0 +1,94 @@
+/* Pagina 1*/
+.menuprincipal {
+    text-align: center;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th  {
+      border: 1px solid black;
+    }
+/* Pagina 2*/
+.PrimeraLinia {
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background-color: grey;
+}
+
+.Titol {
+    height: 70px;
+    text-align: center;
+    font-size: xx-large;;
+    background-color: lightskyblue;
+}
+
+:empty {
+    background-color: white;
+}
+
+:hover {
+    background-color: white;
+}
+
+.Descripcioseg::first-letter {
+    color:red;
+    font-size: xx-large;
+}
+
+.SegonaLinia {
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.Descripcioseg {
+    font-size: large;
+    
+}
+/* Pagina 3 */
+.historiaTitulo {
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+.funcionssubordinades {
+    font-weight: bold;
+}
+
+a:active {
+        background-color: yellow;
+}
+
+a:visited {
+    color: rgb(233, 13, 13);
+}
+
+.h5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*Pagina 4 */
+.llistanoordenada {
+    List-style-type: square;
+}
+
+span:only-child {
+    background-color: lightgreen;
+}
+li:nth-of-type(30) {
+    background: lightblue;
+  }
+
+  .formulari {
+      text-align: center;
+  }
+
+  .required {
+      color: red;
+  }

@@ -1,0 +1,99 @@
+ h2, h1 {
+     color:blue
+ }
+
+ h3 {
+     color:blueviolet
+ }
+
+ .Hola .Adios {
+     color: yellow;
+ }
+
+ h5, span {
+     color: turquoise;
+     
+ }
+
+ pre + h5 {
+     font-style: italic;
+     font-size:larger;
+ }
+
+ h4 ~ p {
+     font-style: italic;
+ }
+
+
+a[target=_blank] {
+    background-color: lightgreen;
+}
+
+[lang|="ca"] {
+    background: lime;
+}
+
+p[class$="test"] {
+    background: purple;
+}
+p[class*="test2"] {
+    background: pink;
+}
+
+p::after {
+    content: " - 2"
+}
+
+input:checked {
+    height: 25px;
+    width: 25px;
+}
+
+p:empty {
+    width: 100px;
+    height: 50px;
+    background:red;
+}
+h1:first-child {
+    background-color: yellow;
+}
+
+h2::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+
+h5:first-of-type {
+    background: black;
+  }
+
+  a:hover {
+    background-color: blue;
+  }
+
+  h5:last-of-type {
+    background: blueviolet;
+  }
+
+  p:nth-child(4) {
+    background:brown;
+  }
+
+  p:nth-last-child(3) {
+    background: orange;
+  }
+  p:nth-last-of-type(1) {
+    background: rgb(4, 240, 248);
+  }
+
+  p:only-child {
+    background: rgb(98, 129, 122);
+  }
+
+  ::placeholder {
+    color: lime;
+  }
+
+  a:visited {
+      color: magenta;
+  }

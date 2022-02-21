@@ -1,0 +1,30 @@
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.csproj.AssemblyReference.cache
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.AssemblyInfoInputs.cache
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.AssemblyInfo.cs
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.csproj.CoreCompileInputs.cache
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.exe
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.deps.json
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.runtimeconfig.json
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\ref\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.pdb
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\ref\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.pdb
+C:\Users\ikerg\Desktop\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.genruntimeconfig.cache
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.exe
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.deps.json
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.runtimeconfig.json
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\ref\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\bin\Debug\net6.0\Proyecte 2.2.pdb
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.csproj.AssemblyReference.cache
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.AssemblyInfoInputs.cache
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.AssemblyInfo.cs
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.csproj.CoreCompileInputs.cache
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\ref\Proyecte 2.2.dll
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.pdb
+C:\Users\ikerg\Desktop\Nueva carpeta\Proyecte 2.2\obj\Debug\net6.0\Proyecte 2.2.genruntimeconfig.cache

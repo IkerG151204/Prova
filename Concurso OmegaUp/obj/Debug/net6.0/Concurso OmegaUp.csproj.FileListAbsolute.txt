@@ -1,0 +1,15 @@
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\Concurso OmegaUp.exe
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\Concurso OmegaUp.deps.json
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\Concurso OmegaUp.runtimeconfig.json
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\Concurso OmegaUp.dll
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\ref\Concurso OmegaUp.dll
+C:\Users\ikerg\Desktop\Concurso OmegaUp\bin\Debug\net6.0\Concurso OmegaUp.pdb
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.csproj.AssemblyReference.cache
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.AssemblyInfoInputs.cache
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.AssemblyInfo.cs
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.csproj.CoreCompileInputs.cache
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.dll
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\ref\Concurso OmegaUp.dll
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.pdb
+C:\Users\ikerg\Desktop\Concurso OmegaUp\obj\Debug\net6.0\Concurso OmegaUp.genruntimeconfig.cache

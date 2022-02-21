@@ -1,0 +1,92 @@
+.index {
+    text-align: center;
+}
+
+.Sa {
+    font-size: 50px;
+    color: limegreen;
+    
+    
+}
+
+.Palomera {
+    color: red;
+    font-size: 25px;
+    text-align: center;
+}
+
+.badiablanes {
+    color: mediumblue;
+}
+
+.platjaabanell{
+    color: mediumblue;
+}
+
+.Blanes {
+    color: mediumblue;
+}
+
+.Costabrava {
+    color: mediumblue;
+}
+
+.Sapa {
+    color: lightskyblue
+}
+
+.sabanell {
+    color: grey;
+}
+
+.zero {
+    background-color: lime;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.uno {
+    background-color: lime;
+    text-align: center;
+}
+.dos {
+    background-color: lime;
+    text-align: center;
+}
+
+.tres {
+    background-color: lime;
+    text-align: center;
+}
+
+.total {
+    background-color: lime;
+    text-align: center;
+    width: 80px;
+    height: 50px;
+}
+
+.Preuunitari {
+    background-color: rgb(172, 169, 169);
+    width: 130px;
+}
+
+.Preparacio {
+    color: limegreen;
+    font-size: 20px;
+}
+
+.Descripcio {
+    background-color: lightgrey;
+    width: 500px;
+}
+
+.Quantitat {
+    background-color:lightgrey;
+    width: 125px;
+}
+
+.registra {
+    text-align: center;
+}
